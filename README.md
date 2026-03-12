@@ -3,7 +3,7 @@
 ## 📄 Descrição do projetto
 Nesse projeto, o objetivo foi desenvolver uma aplicação web simples capaz de consumir dados de uma API pública, utilizando HTML, CSS e JavaScript com programação assíncrona. 
 
-A aplicação realiza uma requisição para uma API externa do universo de Harry Potter, processa os dados retornados no formato JSON e exibe as informações dinamicamente na interface (em formato de cards responsivos), sem a necessidade de recarregar a página.
+A aplicação realiza uma requisição para uma API externa do universo de Harry Potter, processa os dados retornados no formato JSON e exibe as informações dinamicamente na interface (em formato de cards), sem a necessidade de recarregar a página.
 
 Essa sprint tem como foco o aprendizado de conceitos fundamentais do desenvolvimento web moderno, como:
 - Consumo de APIs
@@ -33,3 +33,10 @@ O projeto foi desenvolvido utilizando a seguinte estrutura básica de arquivos:
 - `index.html`: Arquivo principal contendo a estrutura da página e o container (palco) de exibição.
 - `style.css`: Arquivo com todas as regras de estilização, cores e responsividade.
 - `hp.js`: Arquivo com as regras de ultilidade da API.
+
+- ## Como Executar o Projeto
+- Deploy pela Vercel: https://harrypotterapi-topaz.vercel.app/
+
+
+
+Author - Nathalia Lima :P
